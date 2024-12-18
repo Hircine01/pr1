@@ -5,5 +5,5 @@ print("string")
 
 print("Other string")
 
-string 2 developer
+string 2 users
 string
